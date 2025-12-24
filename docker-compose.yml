@@ -36,3 +36,7 @@ services:
 
 volumes:
   dbdata:
+
+# Once docker is running, execute the following commands
+# docker exec -it docker_mysql mysql -u root -p
+# to access the mysql prompt.
